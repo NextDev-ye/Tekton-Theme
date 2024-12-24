@@ -1,4 +1,4 @@
-/* ../../../../../tmp/tmp-1757-JR25G8YB7BlL/tekton_theme/tekton_theme/public/scss/tekton.bundle.css */
+/* ../../../../../../var/folders/h6/7wfd9t454m1f53y53z4sl22h0000gn/T/tmp-6885-8syMER9G5LoY/tekton_theme/tekton_theme/public/scss/tekton.bundle.css */
 [data-theme=tekton-blue] {
   --gray-50: #E8F5FE;
   --gray-100: #D0E7FA;
@@ -16,9 +16,9 @@
   --heading-color: var(--gray-50);
   --btn-default-bg: var(--gray-700);
   --btn-default-hover-bg: var(--gray-500);
-  --bg-blue: var(--blue-600);
-  --bg-light-blue: var(--blue-400);
-  --bg-dark-blue: var(--blue-800);
+  --bg-blue: var(--gray-600);
+  --bg-light-blue: var(--gray-400);
+  --bg-dark-blue: var(--gray-800);
   --bg-green: var(--green-600);
   --bg-yellow: var(--yellow-500);
   --bg-orange: var(--orange-500);
@@ -31,13 +31,13 @@
   --bg-purple: var(--purple-700);
   --bg-pink: var(--pink-700);
   --bg-cyan: var(--cyan-800);
-  --text-on-blue: var(--blue-50);
-  --text-on-light-blue: var(--blue-50);
-  --text-on-dark-blue: var(--blue-300);
-  --text-on-green: var(--dark-green-50);
-  --text-on-yellow: var(--yellow-50);
-  --text-on-orange: var(--orange-100);
-  --text-on-red: var(--red-50);
+  --text-on-blue: var(--gray-50);
+  --text-on-light-blue: var(--gray-50);
+  --text-on-dark-blue: var(--gray-300);
+  --text-on-green: var(--gray-50);
+  --text-on-yellow: var(--gray-50);
+  --text-on-orange: var(--gray-100);
+  --text-on-red: var(--gray-50);
   --text-on-gray: var(--gray-50);
   --text-on-grey: var(--gray-50);
   --text-on-darkgrey: var(--gray-200);
@@ -82,7 +82,7 @@
   --highlight-color: var(--gray-700);
   --yellow-highlight-color: var(--yellow-700);
   --btn-group-border-color: var(--gray-800);
-  --highlight-shadow: 1px 1px 10px var(--blue-900), 0px 0px 4px var(--blue-500);
+  --highlight-shadow: 1px 1px 10px var(--gray-900), 0px 0px 4px var(--gray-500);
   --shadow-base: 0px 4px 8px rgba(114, 176, 233, 0.06), 0px 0px 4px rgba(112, 172, 228, 0.12);
   --diff-added: var(--green-800);
   --diff-removed: var(--red-800);
@@ -161,4 +161,4 @@
 [data-theme=tekton-blue] .indicator {
   --indicator-dot-cyan: var(--bg-cyan);
 }
-/*# sourceMappingURL=tekton.bundle.QJRECOJ2.css.map */
+/*# sourceMappingURL=tekton.bundle.UXC3QQJ5.css.map */
